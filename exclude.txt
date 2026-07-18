@@ -1,0 +1,19 @@
+# Liste d'exclusion diceware — 1 mot par ligne, '#' = commentaire.
+#
+# La plupart des non-mots sont deja retires a l'IMPORT par build_db.py :
+#   - onomatopees (categorie ONO : brrr, beurk, vroum, pfft...) ;
+#   - "mots" sans voyelle, accents, tirets, chiffres, pluriels, conjugaisons.
+#
+# Ce fichier ne sert donc que pour des cas residuels que tu veux ecarter a la
+# main (anglicismes, ou noms/onomatopees tagues NOM que tu juges indesirables
+# comme miam/boum/crac). Editer librement.
+#
+# Anglicismes / emprunts (optionnel)
+week
+start
+staff
+short
+lease
+proxy
+brief
+scoop

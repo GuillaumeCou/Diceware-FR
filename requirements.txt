@@ -1,0 +1,6 @@
+# build_db.py — import du xlsx Lexique
+pandas
+openpyxl
+
+# diceware.py — sortie PDF (par defaut)
+reportlab
